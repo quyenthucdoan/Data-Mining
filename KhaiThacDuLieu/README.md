@@ -1,4 +1,3 @@
-# CS313.L11.KHCL
 1. Preprocessing:
     * **Balance**: can bang 2 nhan cua dataset.
     * **Transform**: dung pp minmax de chuan hoa tap du lieu train và dua ve dang One hot Encoding.
